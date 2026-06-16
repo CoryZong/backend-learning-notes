@@ -12,7 +12,7 @@
 
 ### Cache
 
-目前尚無筆記。
+- [Redis 快取](notes/redis-cache.md)
 
 ### API Design
 

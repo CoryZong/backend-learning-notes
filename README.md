@@ -16,7 +16,7 @@
 
 ### API Design
 
-目前尚無筆記。
+- [API 分頁（offset vs cursor）](notes/api-pagination.md)
 
 ### Linux / Deployment
 

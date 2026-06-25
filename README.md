@@ -20,7 +20,7 @@
 
 ### Linux / Deployment
 
-目前尚無筆記。
+- [環境變數（Environment Variables）](notes/environment-variables.md)
 
 ### System Design
 

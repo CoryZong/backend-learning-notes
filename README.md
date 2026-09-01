@@ -8,6 +8,7 @@
 
 ### Database
 
+- [SQL vs NoSQL](notes/sql-vs-nosql.md)
 - [Database Index](notes/database-index.md)
 
 ### Cache

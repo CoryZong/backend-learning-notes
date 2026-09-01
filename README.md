@@ -10,6 +10,7 @@
 
 - [SQL vs NoSQL](notes/sql-vs-nosql.md)
 - [Database Index](notes/database-index.md)
+- [Transaction](notes/transaction.md)
 
 ### Cache
 

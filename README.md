@@ -11,6 +11,7 @@
 - [SQL vs NoSQL](notes/sql-vs-nosql.md)
 - [Database Index](notes/database-index.md)
 - [Transaction](notes/transaction.md)
+- [ACID](notes/acid.md)
 
 ### Cache
 

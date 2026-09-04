@@ -16,6 +16,8 @@
 ### Cache
 
 - [Redis 快取](notes/redis-cache.md)
+- [Cache Invalidation](notes/cache-invalidation.md)
+- [TTL](notes/ttl.md)
 
 ### API Design
 

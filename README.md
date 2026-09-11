@@ -21,6 +21,7 @@
 
 ### API Design
 
+- [RESTful API](notes/api-design.md)
 - [API 分頁（offset vs cursor）](notes/api-pagination.md)
 
 ### Linux / Deployment
